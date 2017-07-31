@@ -1,0 +1,26 @@
+[
+    {
+        "stepId": "STEP1",
+        "stepName": "Url: l",
+        "infFile": "t1.inf",
+        "time": 1501530960779
+    },
+    {
+        "stepId": "STEP2",
+        "stepName": "Url: www.google.com.tr",
+        "infFile": "t4.inf",
+        "time": 1501530962300
+    },
+    {
+        "stepId": "STEP3",
+        "stepName": "Custom Request: experimentstatus",
+        "infFile": "t5.inf",
+        "time": 1501530963055
+    },
+    {
+        "stepId": "STEP4",
+        "stepName": "Url: gen_204",
+        "infFile": "t6.inf",
+        "time": 1501530963289
+    }
+]

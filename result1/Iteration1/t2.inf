@@ -1,0 +1,16 @@
+[t2]
+SnapshotXmlFile=snapshot_2.xml
+ContentType=DummyContentType
+StepName=Url: seed
+Total=2
+FileName1=t2.UNK
+FileName2=t1_0_l.UNK
+RequestHeaderFile=t2_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t2_ResponseHeader.txt
+RawStepEndTime=1501530961388
+RawStepName=seed
+RequestBodyFile=t2_RequestBody.txt
+RawStepStartTime=1501530960780
+URL1=file:
+URL2=https://translate.googleapis.com/translate_a/l?client=chrome&hl=tr&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw&alpha=1

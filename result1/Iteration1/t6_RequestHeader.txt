@@ -1,0 +1,10 @@
+GET /gen_204?s=webhp&atyp=csi&ei=1ol_WdXLB4qHaIe9iogI&imc=1&imn=1&imp=0&adh=&ima=0&ime=0&rt=xjsls.468,prt.574,iml.574,dcl.575,xjses.3270,xjsee.3506,xjs.3506,ol.4041,aft.574,wsrt.3462,cst.1771,dnst.0,rqst.829,rspt.426,sslt.1627,rqstt.2960,unt.745,cstt.1188,dit.4036&mem=ujhs.12,tjhs.16,jhsl.2190 HTTP/1.1
+Referer: https://www.google.com.tr/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr-TR,tr;q=0.8,en-US;q=0.6,en;q=0.4
+Accept: */*
+Connection: Keep-Alive
+Host: www.google.com.tr
+Cookie: NID=108=Bs4OZcD8VCjdeeEllY8DXSMAhPBvn3uQllbRftSZPaLzc-FMkbDNAJOZdHk8e31h-arHR_flcIhD4o3Vnt2xcjciYXbqpLGeixl3XpHwgGaLXJKs7XPDU5kIgLRBGARg
+

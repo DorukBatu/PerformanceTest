@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+X-Content-Type-Options: nosniff
+X-Country: tr
+X-Frame-Options: SAMEORIGIN
+X-Seed-Signature: MEUCIDtPwvZUoUYvJoBANVNKFlHHwtCuqCu6IxrredOSye5VAiEAjKKhpqgtYrrylfcGXLSN+Bd0qyiUXN2WMKoOb7n62B4=
+X-Xss-Protection: 1; mode=block
+Date: Mon, 31 Jul 2017 19:49:41 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,36,35"
+

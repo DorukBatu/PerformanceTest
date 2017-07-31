@@ -1,0 +1,14 @@
+[t1]
+SnapshotXmlFile=snapshot_1.xml
+ContentType=text/html
+StepName=Url: l
+Total=1
+FileName1=t1_0_l.UNK
+RequestHeaderFile=t1_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t1_ResponseHeader.txt
+RawStepEndTime=1501530960763
+RawStepName=l
+RequestBodyFile=t1_RequestBody.txt
+RawStepStartTime=1501530959160
+URL1=https://translate.googleapis.com/translate_a/l?client=chrome&hl=tr&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw&alpha=1

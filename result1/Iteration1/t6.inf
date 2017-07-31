@@ -1,0 +1,32 @@
+[t6]
+FileName2=t6_8_adbcreatepdfplugin.gif
+RawStepEndTime=1501530963285
+FileName5=t4_5_googlelogo_color_120x44dp.png
+FileName4=t5_6_adbcreatepdfplugin.gif
+FileName7=t4_3_googlelogo_color_272x92dp.png
+FileName6=t4_4_nav_logo242.png
+FileName9=t4_1_k=xjs.UNK
+FileName8=t4_2_k=xjs.UNK
+RequestBodyFile=t6_RequestBody.txt
+RawStepName=gen_204
+ContentType=text/html
+URL10=https://translate.googleapis.com/translate_a/l?client=chrome&hl=tr&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw&alpha=1
+URL1=file:
+URL2=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s08433154537899?AQB=1&ndh=1&pf=1&t=31/6/2017 22:55:28 1 -180&fid=4DAF56F96EF0D899-38CFEE22A3523EF3&ce=UTF-8&pageName=DCBrowserExt:OS:win:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.0.6&v2=sideload&v3=prod&v4=unknown&AQE=1
+URL3=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s02604216902830?AQB=1&ndh=1&pf=1&t=31/6/2017 22:55:26 1 -180&fid=4DAF56F96EF0D899-38CFEE22A3523EF3&ce=UTF-8&pageName=DCBrowserExt:Shim:Version:Unknown:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.0.6&v2=sideload&v3=prod&v4=not_set&s=1280x800&c=24&j=1.6&v=N&k=Y&bh=8&AQE=1
+ResponseHeaderFile=t6_ResponseHeader.txt
+URL4=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s08554645593290?AQB=1&ndh=1&pf=1&t=31/6/2017 22:55:28 1 -180&fid=4DAF56F96EF0D899-38CFEE22A3523EF3&ce=UTF-8&pageName=DCBrowserExt:Extension:Startup:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.0.6&v2=sideload&v3=prod&v4=unknown&AQE=1
+URL5=https://www.google.com.tr/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+FileName10=t1_0_l.UNK
+URL6=https://www.google.com.tr/images/nav_logo242.png
+URL7=https://www.google.com.tr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
+URL8=https://www.google.com.tr/xjs/_/js/k=xjs.s.tr.Mughjn34fj8.O/m=aa,abd,async,dvl,foot,fpe,ipv6,lu,m,sf,spch,d3l,udlg/am=gBGK9njBA5D_HwKCoVsIC9IGJg40/exm=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,j,p,d,csi/rt=j/d=1/ed=1/t=zcms/rs=ACT90oGdxc9r-P9a-l6beJEUKsRH6UFm3A
+URL9=https://www.google.com.tr/xjs/_/js/k=xjs.s.tr.Mughjn34fj8.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,j,p,d,csi/am=gBGK9njBA5D_HwKCoVsIC9IGJg40/rt=j/d=1/t=zcms/rs=ACT90oGdxc9r-P9a-l6beJEUKsRH6UFm3A
+SnapshotXmlFile=snapshot_5.xml
+RequestHeaderFile=t6_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1501530963056
+Total=10
+StepName=Url: gen_204
+FileName1=t4.html
+FileName3=t5_7_adbcreatepdfplugin.gif

@@ -1,0 +1,52 @@
+Virtual User Script started at : 31.07.2017 22:55:59
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.53.0 for Windows 7; build 1982 (Jul 31 2017 21:02:03)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\GitDemoLR\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): web_url("l") started  	[MsgId: MMSG-26355]
+Action.c(6): web_url("l") was successful, 914 body bytes, 458 header bytes, 95 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(14): web_url("seed") started  	[MsgId: MMSG-26355]
+Action.c(14): HTML parsing not performed for Content-Type "application/octet-stream" ("ParseHtmlContentType" Run-Time Setting is "TEXT"). URL="https://clientservices.googleapis.com/chrome-variations/seed?osname=win"  	[MsgId: MMSG-26548]
+Action.c(14): web_url("seed") was successful, 285701 body bytes, 404 header bytes, 14 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(23): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(23): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(31): web_url("www.google.com.tr") started  	[MsgId: MMSG-26355]
+Action.c(31): Downloading resource "https://www.google.com.tr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" (specified by argument number 9)  	[MsgId: MMSG-26577]
+Action.c(31): Downloading resource "https://www.google.com.tr/xjs/_/js/k=xjs.s.tr.Mughjn34fj8.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,j,p,d,csi/am=gBGK9njBA5D_HwKCoVsIC9IGJg40/rt=j/d=1/t=zcms/rs=ACT90oGdxc9r-P9a-l6beJEUKsRH6UFm3A" (specified by argument number 11)  	[MsgId: MMSG-26577]
+Action.c(31): Downloading resource "https://www.google.com.tr/xjs/_/js/k=xjs.s.tr.Mughjn34fj8.O/m=aa,abd,async,dvl,foot,fpe,ipv6,lu,m,sf,spch,d3l,udlg/am=gBGK9njBA5D_HwKCoVsIC9IGJg40/exm=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,j,p,d,csi/rt=j/d=1/ed=1/t=zcms/rs=ACT90oGdxc9r-P9a-l6beJEUKsRH6UFm3A" (specified by argument number 13)  	[MsgId: MMSG-26577]
+Action.c(31): Downloading resource "https://www.google.com.tr/images/nav_logo242.png" (specified by argument number 15)  	[MsgId: MMSG-26577]
+Action.c(31): Found resource "https://www.google.com.tr/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png" in HTML "https://www.google.com.tr/"  	[MsgId: MMSG-26659]
+Action.c(31): web_url("www.google.com.tr") was successful, 303245 body bytes, 2770 header bytes, 885 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(45): web_add_cookie started  	[MsgId: MMSG-26355]
+Action.c(45): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(47): web_add_cookie started  	[MsgId: MMSG-26355]
+Action.c(47): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(49): web_add_cookie started  	[MsgId: MMSG-26355]
+Action.c(49): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(51): web_add_cookie started  	[MsgId: MMSG-26355]
+Action.c(51): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(53): web_add_cookie started  	[MsgId: MMSG-26355]
+Action.c(53): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(55): web_add_cookie started  	[MsgId: MMSG-26355]
+Action.c(55): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(57): web_custom_request("experimentstatus") started  	[MsgId: MMSG-26355]
+Action.c(57): Downloading resource "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s02604216902830?AQB=1&ndh=1&pf=1&t=31%2F6%2F2017%2022%3A55%3A26%201%20-180&fid=4DAF56F96EF0D899-38CFEE22A3523EF3&ce=UTF-8&pageName=DCBrowserExt%3AShim%3AVersion%3AUnknown%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.0.6&v2=sideload&v3=prod&v4=not_set&s=1280x800&c=24&j=1.6&v=N&k=Y&bh=8&AQE=1" (specified by argument number 12)  	[MsgId: MMSG-26577]
+Action.c(57): Downloading resource "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s08554645593290?AQB=1&ndh=1&pf=1&t=31%2F6%2F2017%2022%3A55%3A28%201%20-180&fid=4DAF56F96EF0D899-38CFEE22A3523EF3&ce=UTF-8&pageName=DCBrowserExt%3AExtension%3AStartup%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.0.6&v2=sideload&v3=prod&v4=unknown&AQE=1" (specified by argument number 15)  	[MsgId: MMSG-26577]
+Action.c(57): web_custom_request("experimentstatus") was successful, 106 body bytes, 1743 header bytes, 236 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(72): web_url("gen_204") started  	[MsgId: MMSG-26355]
+Action.c(72): Downloading resource "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s08433154537899?AQB=1&ndh=1&pf=1&t=31%2F6%2F2017%2022%3A55%3A28%201%20-180&fid=4DAF56F96EF0D899-38CFEE22A3523EF3&ce=UTF-8&pageName=DCBrowserExt%3AOS%3Awin%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.0.6&v2=sideload&v3=prod&v4=unknown&AQE=1" (specified by argument number 9)  	[MsgId: MMSG-26577]
+Action.c(72): web_url("gen_204") was successful, 43 body bytes, 870 header bytes  	[MsgId: MMSG-26386]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
